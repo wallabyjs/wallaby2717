@@ -21,6 +21,13 @@
   "projects": {
     "gen-server": {
       "tags": []
+    },
+    "gen-client": {
+      "tags": []
+    },
+    "gen-client-e2e": {
+      "tags": [],
+      "implicitDependencies": ["gen-client"]
     }
   }
 }

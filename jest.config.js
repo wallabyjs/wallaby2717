@@ -1,3 +1,3 @@
 module.exports = {
-  projects: ['<rootDir>/apps/gen-server'],
+  projects: ['<rootDir>/apps/gen-server', '<rootDir>/apps/gen-client'],
 };
